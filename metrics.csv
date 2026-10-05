@@ -1,0 +1,3 @@
+model,train_mse,test_mse
+Linear regression baseline,4.752015100493787,3.5523529560525837
+3-layer deep linear network,4.440547170762174,3.823132846899396
